@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌀 Working with React
-📚 Currently Learning React
+📚 Currently Learning NextJs
 🔍 Ask me about MERN
 🚀 DSA Enthusiast
 
