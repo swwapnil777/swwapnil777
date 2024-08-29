@@ -5,13 +5,17 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swwapnil777&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swwapnil777&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swwapnil777&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swwapnil777&layout=compact&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=swwapnil777&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+ 
+
 </div>
 
 ---
 
-<h3 align="left">Skills</h3>
+<h3 align="left">🛠 Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
@@ -35,7 +39,7 @@
 
 ---
 
-<h3 align="left">Let's Connect</h3>
+<h3 align="left">🤝 Let's Connect</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/swapnil-khatik-b11a08200/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="70" alt="LinkedIn" />
