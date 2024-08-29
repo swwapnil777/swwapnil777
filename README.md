@@ -5,8 +5,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swwapnil777&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swwapnil777&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swwapnil777&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swwapnil777&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
