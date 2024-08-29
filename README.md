@@ -13,7 +13,7 @@
 ---
 
 
-<img align="right" height="150" src="" alt="DevOps Animated GIF" />
+<img align="right" height="150" src="Devops.gif" alt="DevOps Animated GIF" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="AWS" />
