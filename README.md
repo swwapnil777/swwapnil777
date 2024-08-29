@@ -1,4 +1,3 @@
-
 <h1 align="left">Swapnil Khatik</h1>
 <h2 align="left">DevOps Engineer | B.E. Computer Engineering</h2>
 <p align="left">VPKBIET, Baramati | CGPA: 8.76</p>
@@ -12,9 +11,7 @@
 
 ---
 
-
-<img align="right" height="250" src="Devops.gif" alt="DevOps Animated GIF" />
-
+<h3 align="left">Skills</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
@@ -34,26 +31,17 @@
 </div>
 
 ---
- <img align="left" height="50" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" alt="HandShake Logo" />
-<h1 right="left">Lets connect through</h1>
 
- 
-
-
- 
+<h3 align="left">Let's Connect</h3>
 <div align="left">
-
- 
   <a href="https://www.linkedin.com/in/swapnil-khatik-b11a08200/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="70" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/KhatikSwwapnil" target="_blank">
-    <img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ5MjYzMDIsIm5iZiI6MTcyNDkyNjAwMiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI5VDEwMDY0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk4ZGViNDY3N2RiZTZjMjFjZThhY2IxYzRjOTdkZTg1MTE4NmM0OTQ2M2UwYzNmZGVjN2VlZjgzMzZmMGI3ZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.aHtmKvPIjQpp30x7-ht7W7aNVtf2HzXAGgOehIXzPj8" height="70" alt="Twitter" />
- 
+    <img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ5MzEzNjIsIm5iZiI6MTcyNDkzMTA2MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI5VDExMzEwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkOWU5M2EzMmFlYzc2Njc5M2UxMDYzYTU2Zjc3MDJmYmJjNmQ0NTY5Y2UyMGJlMzA3ZTU1MDY0Nzk3MTJkMjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.weOUHUsh3YY0bsAwZQfcBseCcwpknZncQHf2kxlDo9I" height="70" alt="Twitter" />
+  </a>
   <a href="https://www.instagram.com/swwapnil_khatik/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="70" alt="Instagram" />
   </a>
-
-
-
+  <img align="right" height="250" src="Devops.gif" alt="DevOps Animated GIF" />
 </div>
